@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.m-box{
+  width: 100px;
+  height: 100px;
+  margin: 1px;
+  float: left;
+  cursor: pointer;
+}
